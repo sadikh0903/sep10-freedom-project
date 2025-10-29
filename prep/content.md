@@ -6,7 +6,7 @@ Topic: **Medicine**
 * n/a
 
 ## Part A: existing technology
-* 1) Epic Systems
+* Epic Systems
   * Electronic Health Record used by hospitals to manage their patients information, appointments, charts and even their labs.
   * [image text](image URL)
  
