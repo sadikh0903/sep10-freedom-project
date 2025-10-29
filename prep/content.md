@@ -6,9 +6,9 @@ Topic: **Medicine**
 * n/a
 
 ## Part A: existing technology
-* Epic Systems
+* Epic Systems <a href="https://www.ehrinpractice.com/epic-ehr-software-profile-119.html" target="_blank">Source</a>
   * Electronic Health Record used by hospitals to manage their patients information, appointments, charts and even their labs.
-  * [image text](image URL)
+ 
  
 
 ## Part B: possible future technology
