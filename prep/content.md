@@ -29,6 +29,9 @@ Topic: **Medicine**
   * Helps medical professionals organize research paper, citations and evidence that they need.
 * DoseLab <a href="https://www.oit.va.gov/services/trm/ToolPage.aspx?tid=9693"> Source </a>
   * Ensures that cancer radiation theraphy machines deliver the correct dosages safely.
+* 3D Slicer <a href="https://www.slicer.org/" > Source </a>
+  * Platform that is used to analyze medical images and creating 3D models.
+* 
  
 ## Part B: possible future technology
 * Idea
