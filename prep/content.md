@@ -6,7 +6,7 @@ Topic: **Medicine**
 * n/a
 
 ## Part A: existing technology
-<h1> Software </h1>
+## Software
 * Epic Systems <a href="https://www.ehrinpractice.com/epic-ehr-software-profile-119.html" target="_blank">Source</a>
   * Electronic Health Record used by hospitals to manage their patients information, appointments, charts and even their labs
 * Teladoc Health <a href="https://hr.princeton.edu/thrive/wellness-resources/teladoc" target="_blank"> Source </a>
