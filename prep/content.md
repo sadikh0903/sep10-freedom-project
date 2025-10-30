@@ -11,9 +11,13 @@ Topic: **Medicine**
 * Teladoc Health <a href="https://hr.princeton.edu/thrive/wellness-resources/teladoc" target="_blank"> Source </a>
   * Allows for the patients to have remote video appointments with their doctors
 * Philips IntelliSpace PACS <a href="https://www.philips.sa/en/healthcare/resources/landing/intellispace-enterprise-imaging-solution"> Source </a>
- 
- 
-
+  * Stores an dorganizes X-rays, MRI scans and CT for radiologists
+* eClnicalWorks <a href="https://www.eclinicalworks.com/" > Source </a>
+  * Schedules patients, handles all the billing and manages clinical documentation.
+* MediTech <a href="https://ehr.meditech.com/" > Source </a>
+  * Runs hospital departments including nursing, lab, pharmacy, and patient flow.
+* AthenaOne <a href="https://www.athenahealth.com/solutions/athenaone" > Source </a>
+  * Handles patient appointments, insurance claims and medical billing.
 ## Part B: possible future technology
 * Idea
   * Detail
