@@ -6,6 +6,7 @@ Topic: **Medicine**
 * n/a
 
 ## Part A: existing technology
+<h1> Software </h1>
 * Epic Systems <a href="https://www.ehrinpractice.com/epic-ehr-software-profile-119.html" target="_blank">Source</a>
   * Electronic Health Record used by hospitals to manage their patients information, appointments, charts and even their labs
 * Teladoc Health <a href="https://hr.princeton.edu/thrive/wellness-resources/teladoc" target="_blank"> Source </a>
@@ -26,6 +27,9 @@ Topic: **Medicine**
   * Open-source electrionic medical system widely used in many countries that are developing.
 * Mendeley Clinical Evidence Manager <a href="https://www.mendeley.com/reference-management/reference-manager" > Source </a>
   * Helps medical professionals organize research paper, citations and evidence that they need.
+* DoseLab <a href="https://www.oit.va.gov/services/trm/ToolPage.aspx?tid=9693"> Source </a>
+  * Ensures that cancer radiation theraphy machines deliver the correct dosages safely.
+ 
 ## Part B: possible future technology
 * Idea
   * Detail
