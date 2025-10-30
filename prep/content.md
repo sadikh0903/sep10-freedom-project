@@ -18,6 +18,14 @@ Topic: **Medicine**
   * Runs hospital departments including nursing, lab, pharmacy, and patient flow.
 * AthenaOne <a href="https://www.athenahealth.com/solutions/athenaone" > Source </a>
   * Handles patient appointments, insurance claims and medical billing.
+* Zocdoc <a href="https://www.zocdoc.com/" > Source </a>
+  * Allows for patients search for doctors and book appointments online.
+* Carestream Vue Motion <a href="https://epicsupport.sites.uiowa.edu/epic-resources/vue-motion" > Source </a>
+  * Allows for doctors to view medical images from any workstation or device.
+* OpenMRS <a href="https://openmrs.org/" > Source </a> 
+  * Open-source electrionic medical system widely used in many countries that are developing.
+* Mendeley Clinical Evidence Manager <a href="https://www.mendeley.com/reference-management/reference-manager" > Source </a>
+  * Helps medical professionals organize research paper, citations and evidence that they need.
 ## Part B: possible future technology
 * Idea
   * Detail
