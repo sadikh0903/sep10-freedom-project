@@ -31,7 +31,73 @@ Topic: **Medicine**
   * Ensures that cancer radiation theraphy machines deliver the correct dosages safely.
 * 3D Slicer <a href="https://www.slicer.org/" > Source </a>
   * Platform that is used to analyze medical images and creating 3D models.
-* 
+# TOPIC: Medicine
+
+## Content / Overview
+What is medicine?  
+Medicine is the science and practice of diagnosing, treating, and preventing illnesses. Doctors, nurses, and other healthcare professionals work together to keep people healthy, the medical field uses technology, tools, software, and scientific knowledge to save lives every day. Medicine is so relient on technology now, and as technology gets better so does medicine, this is a quick overview on the research I've done in class, and on my own.
+
+---
+
+# Medicine (Software)
+
+*Connected to Blog Entry #1 — medical software is used in hospitals for scheduling, imaging, patient records, and clinical decision-making.*
+
+- **Epic Systems**  
+  - Electronic Health Record used to manage patient information, appointments, charts, and labs.  
+  - Helps keep all medical data organized and secure.
+
+- **Teladoc Health**  
+  - Allows patients to have remote video appointments with doctors.  
+  - Helpful for quick access to medical advice without traveling.
+
+- **Philips IntelliSpace PACS**  
+  - Stores and organizes X-rays, MRI scans, and CT images.  
+  - Used by radiologists to examine and share medical imaging.
+
+- **Zocdoc**  
+  - Lets patients search for doctors and book appointments online.  
+  - Reduces wait times and makes scheduling easier.
+
+---
+
+# Medicine (Hardware / Gadgets)
+
+- **Digital Stethoscope**  
+  *Creator:* David Littmann (modern versions made by many companies)  
+  ![](https://ekohealth.com/cdn/shop/files/Core500Cart.png)  
+  - Amplifies heart and lung sounds.  
+  - Can record audio and share it with other specialists.
+
+- **Blood Pressure Monitor (Automatic)**  
+  *Common Manufacturer:* Omron  
+  ![](https://www.omron-healthcare.com/eu/en/images/product/blood_pressure/HEM-7155T-E/HEM-7155T-E-main-visual.png)  
+  - Measures blood pressure quickly and accurately.  
+  - Many versions store data and sync with phone apps.
+
+- **Pulse Oximeter**  
+  *Creator:* Takuo Aoyagi  
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SurePulse_Oximeter.png/640px-SurePulse_Oximeter.png)  
+  - Clips on the finger to measure heart rate and oxygen level.  
+  - Widely used in hospitals and during COVID-19.
+
+- **Portable Ultrasound Scanner**  
+  *Example Company:* Butterfly Network  
+  ![](https://butterflynetwork.com/images/products/butterfly-iq.png)  
+  - Lets doctors see inside the body using sound waves.  
+  - Portable, useful for pregnancy checks, injury scans, and emergencies.
+
+- **Digital Otoscope**  
+  ![](https://m.media-amazon.com/images/I/71XHq-hnQBL.jpg)  
+  - Used to look inside a patient’s ear.  
+  - Digital versions show images on a phone or tablet.
+
+- **Infrared Thermometer**  
+  ![](https://m.media-amazon.com/images/I/61UPgX9M9VL.jpg)  
+  - Measures body temperature without touching the skin.  
+  - Quick and useful for preventing disease spread.
+
+
  
 ## Part B: possible future technology
 * Idea
