@@ -1,9 +1,9 @@
 # **Entry 2 — Medicine Technology Research**
 #### 11/3/25
 ## **Content**
-Medicine is the science of diagnosing, treating, and preventing illness. Modern medicine relies heavily on technology—both software and hardware—to help doctors work faster, safer, and more accurately. Through my research, I explored different medical tools used in hospitals today, including Electronic Health Records, imaging software, and diagnostic devices like digital stethoscopes and ultrasound scanners.
+Medicine is the science of diagnosing, treating, and preventing illness. Modern medicine relies heavily on technology, both software and hardware—to help doctors work faster, safer, and more accurately. Through my research, I explored different medical tools used in hospitals today, including Electronic Health Records, imaging software, and diagnostic devices like digital stethoscopes and ultrasound scanners.
 
-I also designed a future medical innovation called **MedScan+**, a mobile app that diagnoses people at home. Using the phone’s camera, microphone, and sensors, MedScan+ scans a user’s symptoms and compares them to millions of medical cases using AI. After generating a diagnosis, the app connects the user to a real doctor who can give prescriptions, treatment plans, and advice. The app can also deliver medicine to a person’s home. This technology would make healthcare more accessible, especially for people who cannot easily travel to a clinic.
+I also designed a future medical innovation called **MedScan+**, a mobile app that diagnoses people at home. Using the phone’s camera, microphone, and sensors, MedScan+ scans a user’s symptoms and compares them to millions of medical cases using AI. After generating a diagnosis, the app connects the user to a real doctor who can give prescriptions, treatment plans, and advice. The app can also deliver medicine to a person’s home. 
 
 ---
 
@@ -29,24 +29,7 @@ I also designed a future medical innovation called **MedScan+**, a mobile app th
 ---
 
 ## **EDP (Engineering Design Process)**
-
-### **1. Identify the Problem**
-Many people struggle to access medical care quickly, especially if they live far from hospitals or cannot travel easily.
-
-### **2. Research the Problem**
-I researched telehealth apps, medical scanning devices, and existing AI tools used in healthcare to understand what already exists and what is still missing.
-
-### **3. Brainstorm & Develop Solutions**
-Possible ideas included wearable scanners, AI chat tools, at-home medical pods, and mobile diagnosis apps.
-
-### **4. Select the Best Idea**
-I selected the mobile diagnosis app because nearly everyone owns a smartphone and it offers the most accessibility.
-
-### **5. Create a Concept / Prototype**
-I designed **MedScan+**, an app that scans symptoms, provides AI-powered diagnosis, connects users to doctors, and delivers prescriptions and medicine.
-
-### **6. Test & Improve (Concept Stage)**
-To prevent mistakes, doctors would confirm AI results. I identified improvements like better camera calibration, secure data storage, and emergency alerts.
+I am currently in the researching stage of my process, I've researched technology that already exists today and I've implemented some of the features like that are technology heavy into the MediScan innovation that I'm currently working on. 
 
 ---
 
