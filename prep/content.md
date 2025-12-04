@@ -59,7 +59,7 @@ What is medicine?
 
 * **Digital Stethoscope**  
   *Creator:* David Littmann (modern versions made by many companies)  
-  ![](https://ekohealth.com/cdn/shop/files/Core500Cart.png)  
+  ![source](https://ekohealth.com/cdn/shop/files/Core500Cart.png)  
   * Amplifies heart and lung sounds.  
   * Can record audio and share it with other specialists.
 
