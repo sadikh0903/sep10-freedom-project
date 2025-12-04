@@ -35,29 +35,25 @@ Topic: **Medicine**
 
 ## Content / Overview
 What is medicine?  
-Medicine is the science and practice of diagnosing, treating, and preventing illnesses. Doctors, nurses, and other healthcare professionals work together to keep people healthy, the medical field uses technology, tools, software, and scientific knowledge to save lives every day. Medicine is so relient on technology now, and as technology gets better so does medicine, this is a quick overview on the research I've done in class, and on my own.
-
----
+- Medicine is the science and practice of diagnosing, treating, and preventing illnesses. Doctors, nurses, and other healthcare professionals work together to keep people healthy, the medical field uses technology, tools, software, and scientific knowledge to save lives every day. Medicine is so relient on technology now, and as technology gets better so does medicine, this is a quick overview on the research I've done in class, and on my own.
 
 # Medicine (Software)
 
-*Connected to Blog Entry #1 — medical software is used in hospitals for scheduling, imaging, patient records, and clinical decision-making.*
+* **Epic Systems**  
+  * Electronic Health Record used to manage patient information, appointments, charts, and labs.  
+  * Helps keep all medical data organized and secure.
 
-- **Epic Systems**  
-  - Electronic Health Record used to manage patient information, appointments, charts, and labs.  
-  - Helps keep all medical data organized and secure.
+* **Teladoc Health**  
+  * Allows patients to have remote video appointments with doctors.  
+  * Helpful for quick access to medical advice without traveling.
 
-- **Teladoc Health**  
-  - Allows patients to have remote video appointments with doctors.  
-  - Helpful for quick access to medical advice without traveling.
+* **Philips IntelliSpace PACS**  
+  * Stores and organizes X-rays, MRI scans, and CT images.  
+  * Used by radiologists to examine and share medical imaging.
 
-- **Philips IntelliSpace PACS**  
-  - Stores and organizes X-rays, MRI scans, and CT images.  
-  - Used by radiologists to examine and share medical imaging.
-
-- **Zocdoc**  
-  - Lets patients search for doctors and book appointments online.  
-  - Reduces wait times and makes scheduling easier.
+* **Zocdoc**  
+  * Lets patients search for doctors and book appointments online.  
+  * Reduces wait times and makes scheduling easier.
 
 ---
 
