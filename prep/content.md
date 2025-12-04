@@ -2,8 +2,6 @@
 Topic: **Medicine**
 
 ## Overview/Introduction/Context
-* Existing technology
-* n/a
 
 ## Part A: existing technology
 ## Software
