@@ -94,5 +94,7 @@ What is medicine?
 ---
  
 ## Part B: possible future technology
-* Idea
-  * Detail
+* **Future technology / innovation**
+  ** Future Innovation: MedScan+ (AI Home Diagnosis System) **
+
+* MedScan+ is an innovation I'd like to bring about, it's a medical innovation that will enable people to get proper healthcare without leaving their homes. It'll work based off an application based on the symptoms that the user is feeling at the time. It works by analyzing your voice, via  microphone, breathing patterns, via your smartphones camera, temperature as well as your breathing pattern, changes in your skin tone, eyes, and any instance that shows that you're sick. Advanced AI will compare all your data with medical cases of others and diagnose your condition accurately in minutes. After the scanning, you'll be connected to a doctor that reviews your results, where you're prescribed medicine, a treatment plan and proper advice. The beauty of this app is that you can order medicine through your smartphone and have it delivered to you on the same day, the app will record your health history and check up on you over certain time periods. 
