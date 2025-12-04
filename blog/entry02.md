@@ -1,7 +1,7 @@
 # **Entry 2 — Medicine Technology Research**
 #### 11/3/25
 ## **Content**
-Medicine is the science of diagnosing, treating, and preventing illness. Modern medicine relies heavily on technology, both software and hardware—to help doctors work faster, safer, and more accurately. Through my research, I explored different medical tools used in hospitals today, including Electronic Health Records, imaging software, and diagnostic devices like digital stethoscopes and ultrasound scanners.
+Medicine is the science of diagnosing, treating, and preventing illness. Modern medicine relies heavily on technology, both software and hardware to help doctors work faster, safer, and more accurately. Through my research, I explored different medical tools used in hospitals today, including Electronic Health Records, imaging software, and diagnostic devices like digital stethoscopes and ultrasound scanners.
 
 I also designed a future medical innovation called **MedScan+**, a mobile app that diagnoses people at home. Using the phone’s camera, microphone, and sensors, MedScan+ scans a user’s symptoms and compares them to millions of medical cases using AI. After generating a diagnosis, the app connects the user to a real doctor who can give prescriptions, treatment plans, and advice. The app can also deliver medicine to a person’s home. 
 
