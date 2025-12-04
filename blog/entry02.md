@@ -38,6 +38,5 @@ I am currently in the researching stage of my process, I've researched technolog
 - Understanding how hospital software and diagnostic hardware work  
 - Summarizing complex information into simpler writing  
 - Using the Engineering Design Process to build an original idea  
-- Organizing information clearly for a professional GitHub entry  
 - Connecting technology research to real-world healthcare problems  
 
