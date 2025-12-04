@@ -57,39 +57,39 @@ What is medicine?
 
 # Medicine (Hardware / Gadgets)
 
-- **Digital Stethoscope**  
+* **Digital Stethoscope**  
   *Creator:* David Littmann (modern versions made by many companies)  
   ![](https://ekohealth.com/cdn/shop/files/Core500Cart.png)  
-  - Amplifies heart and lung sounds.  
-  - Can record audio and share it with other specialists.
+  * Amplifies heart and lung sounds.  
+  * Can record audio and share it with other specialists.
 
-- **Blood Pressure Monitor (Automatic)**  
+* **Blood Pressure Monitor (Automatic)**  
   *Common Manufacturer:* Omron  
   ![](https://www.omron-healthcare.com/eu/en/images/product/blood_pressure/HEM-7155T-E/HEM-7155T-E-main-visual.png)  
-  - Measures blood pressure quickly and accurately.  
-  - Many versions store data and sync with phone apps.
+  * Measures blood pressure quickly and accurately.  
+  * Many versions store data and sync with phone apps.
 
-- **Pulse Oximeter**  
+* **Pulse Oximeter**  
   *Creator:* Takuo Aoyagi  
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SurePulse_Oximeter.png/640px-SurePulse_Oximeter.png)  
-  - Clips on the finger to measure heart rate and oxygen level.  
-  - Widely used in hospitals and during COVID-19.
+  * Clips on the finger to measure heart rate and oxygen level.  
+  * Widely used in hospitals and during COVID-19.
 
-- **Portable Ultrasound Scanner**  
+* **Portable Ultrasound Scanner**  
   *Example Company:* Butterfly Network  
   ![](https://butterflynetwork.com/images/products/butterfly-iq.png)  
-  - Lets doctors see inside the body using sound waves.  
-  - Portable, useful for pregnancy checks, injury scans, and emergencies.
+  * Lets doctors see inside the body using sound waves.  
+  * Portable, useful for pregnancy checks, injury scans, and emergencies.
 
-- **Digital Otoscope**  
+* **Digital Otoscope**  
   ![](https://m.media-amazon.com/images/I/71XHq-hnQBL.jpg)  
-  - Used to look inside a patient’s ear.  
-  - Digital versions show images on a phone or tablet.
+  * Used to look inside a patient’s ear.  
+  * Digital versions show images on a phone or tablet.
 
-- **Infrared Thermometer**  
+* **Infrared Thermometer**  
   ![](https://m.media-amazon.com/images/I/61UPgX9M9VL.jpg)  
-  - Measures body temperature without touching the skin.  
-  - Quick and useful for preventing disease spread.
+  * Measures body temperature without touching the skin.  
+  * Quick and useful for preventing disease spread.
 
 
  
