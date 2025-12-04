@@ -59,39 +59,39 @@ What is medicine?
 
 * **Digital Stethoscope**  
   *Creator:* David Littmann (modern versions made by many companies)  
-  ![source](https://ekohealth.com/cdn/shop/files/Core500Cart.png)  
+  <a href="https://www.littmann.com/en-us/home/core-digital-stethoscope/" target="_blank"> Source</a>   
   * Amplifies heart and lung sounds.  
   * Can record audio and share it with other specialists.
 
 * **Blood Pressure Monitor (Automatic)**  
   *Common Manufacturer:* Omron  
-  ![](https://www.omron-healthcare.com/eu/en/images/product/blood_pressure/HEM-7155T-E/HEM-7155T-E-main-visual.png)  
+  <a href="https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home" target="_blank"> Source</a>  
   * Measures blood pressure quickly and accurately.  
   * Many versions store data and sync with phone apps.
 
 * **Pulse Oximeter**  
   *Creator:* Takuo Aoyagi  
-  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SurePulse_Oximeter.png/640px-SurePulse_Oximeter.png)  
+  <a href="https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics" target="_blank">Source</a>  
   * Clips on the finger to measure heart rate and oxygen level.  
   * Widely used in hospitals and during COVID-19.
 
 * **Portable Ultrasound Scanner**  
   *Example Company:* Butterfly Network  
-  ![](https://butterflynetwork.com/images/products/butterfly-iq.png)  
+  <a href="https://www.gehealthcare.com/products/ultrasound/handheld-ultrasound?srsltid=AfmBOopnM4OILHxsBd63sW1PaQW4u1PnnmuBdXoRo3BCIMu3o-y0ATye" target="_blank"> Source</a>  
   * Lets doctors see inside the body using sound waves.  
   * Portable, useful for pregnancy checks, injury scans, and emergencies.
 
 * **Digital Otoscope**  
-  ![](https://m.media-amazon.com/images/I/71XHq-hnQBL.jpg)  
+  <a href="https://www.ncbi.nlm.nih.gov/books/NBK556090/" target="_blank"> Source</a>  
   * Used to look inside a patient’s ear.  
   * Digital versions show images on a phone or tablet.
 
 * **Infrared Thermometer**  
-  ![](https://m.media-amazon.com/images/I/61UPgX9M9VL.jpg)  
+ <a href="https://www.flir.com/discover/professional-tools/infrared-thermometers-101/?srsltid=AfmBOoqBySQBolb-18qmO0lEwO1aOhz8Z0d2x8TMgQ02_lEFc84T2YPs" target="_blank"> Source</a>  
   * Measures body temperature without touching the skin.  
   * Quick and useful for preventing disease spread.
 
-
+---
  
 ## Part B: possible future technology
 * Idea
