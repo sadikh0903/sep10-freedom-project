@@ -26,6 +26,10 @@ Thursday: Using Aframes, I will begin to create a 3D model of one of my part B i
 
 Friday: Using the previous 3D model, I would try going into depth on what I could polish up & change to better my 3D model, and then I will think of ways I could implement what I’ve learned from Aframes to my main Idea.
 
+I've learned about the cursor and it's various diffeerent properties,as well as what you can do it with it, this will help with btinging interactive aspects into my project. There are a variety of events you can apply to your Aframes code that allows for different things to occur, like click, fusing, mousedown, mouseenter, mousecenter, etc. 
+
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
