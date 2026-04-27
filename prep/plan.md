@@ -2,7 +2,7 @@
 
 ## Wireframes
 * [Mobile]()
-* [Desktop]()
+* [Desktop](https://wireframe.cc/LxXlGn)
 
 ## Colors
 * `#ABC123`
