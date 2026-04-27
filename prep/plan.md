@@ -18,7 +18,12 @@
 * 5/1-3/26: Work on the Aframes model & implementing it into my website
 * 5/4/26: FInal touches / test out all the components, add anything i missed or wanted to if I have time.
 #### MVP
-
+* Layout the basis of my website
+* Begin adding content
+* After all that's done, add a navbar & carousel to my website
+* Ceeate the AFrames VR model for my site
+* Link it all together & make sure everything works
+* Then, I can start working on my Beyond MVP aspects
 ---
 
 #### Beyond MVP
