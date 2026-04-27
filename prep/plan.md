@@ -23,7 +23,9 @@
 
 #### Beyond MVP
 
-* Task
+* Add cards for some of my content (like existing technology)
+* Make the website even more nteractable
+* Better my Aframes model
 
 
 
