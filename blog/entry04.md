@@ -12,6 +12,9 @@ I learned how to rotate my objects in a variety of ways through the rotation on 
 * learned this by using the Aframe schools tutorial, and by searching up tutorials on youtube
 * I'm still having trouble on the rotation aspect, and adding other effects on this.
 * I'm going to try making my own little combination of geometric shapoes using all of the aspects I've learnt through learning log 1 & 2.
+(This is all from my learning log)
+
+I had trouble with some of the Aframes tinkering code because this is what I had originally (which didn't really display amything and none of the geometric functions worked)
 
 
 [Previous](entry03.md) | [Next](entry05.md)
