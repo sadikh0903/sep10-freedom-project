@@ -28,9 +28,9 @@
 
 #### Beyond MVP
 
-* Add cards for some of my content (like existing technology)
-* Make the website even more nteractable
-* Better my Aframes model
+1) Add cards for some of my content (like existing technology)
+2) Better my Aframes model
+3) Add a carasouel + other components to make my website more interactable
 
 
 
@@ -39,7 +39,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |

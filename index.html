@@ -1,78 +1,99 @@
 <!DOCTYPE html>
-<html>
-    <head>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Medicine</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
 
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" type="text/css" />
-        <style>
-            /* CSS */
-body {
-  background-color: #E6DBBF;
-}
-        </style>
-
-        <title>Title</title>
-    </head>
-    <body>
-        <!-- HTML -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
-
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Mediscan+</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Context</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Existing Technology</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Invention</a>
-        </li>
-        <nav class="navbar bg-body-tertiary">
-  <form class="container-fluid justify-content-start">
-    <button class="btn btn-outline-success me-2" type="button">AFrames VR Demo</button>
-      </ul>
-    </div>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Logo</a>
+  <div class="collapse navbar-collapse">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><a class="nav-link" href="#context">Context</a></li>
+      <li class="nav-item"><a class="nav-link" href="#tech">Existing Technology</a></li>
+      <li class="nav-item"><a class="nav-link" href="#future">Invention</a></li>
+      <li class="nav-item"><a class="btn btn-dark" href="#">Aframes Demo</a></li>
+    </ul>
   </div>
 </nav>
-<section id="context" class="py-5 by-light">
-  <div class="container">
-    <h2 class = "mb-4":> Medicine </h2>
-      <div class="col-md-6 mb-4">
-        <h5> Medicine is the science and practice of diagnosing, treating, and preventing illnesses. Doctors, nurses, and other healthcare professionals work together to keep people healthy, the medical field uses technology, tools, software, and scientific knowledge to save lives every day. Medicine is so relient on technology now, and as technology gets better so does medicine, this is a quick overview on the research I've done in class, and on my own.</h5>
-      </div>
+
+<!-- Hero Section (Context) -->
+<div class="container mt-5" id="context">
+  <div class="row align-items-center">
+    <div class="col-md-6">
+      <h2>Medicine / Topic Context</h2>
+      <p>
+        Medicine is the science and practice of diagnosing, treating, and preventing illnesses. Doctors, nurses, and other healthcare professionals work together to keep people healthy, the medical field uses technology, tools, software, and scientific knowledge to save lives every day. Medicine is so relient on technology now, and as technology gets better so does medicine, this is a quick overview on the research I've done in class, and on my own.
+      </p>
+      <button class="btn btn-secondary">Expand</button>
+    </div>
+    <div class="col-md-6">
+      <div class="bg-light p-5 text-center">Image</div>
+    </div>
   </div>
-</section>
- </div>
-</section>
+</div>
 
-<section id="existing-technologies" class="py-5 by-light">
-  <div class="container">
-    <h3 class="text-center mb-4"> Existing Technology/Software</h2>
+<!-- Existing Technology (4 items like wireframe) -->
+<div class="container mt-5" id="tech">
+  <h3 class="text-center mb-4">Existing Technology / Hardware</h3>
+  <div class="row text-center">
+
+    <div class="col-md-3">
+      <div class="bg-light p-5">Image</div>
+      <h5 class="mt-3">Epic Systems</h5>
+      <p>Electronic Health Record used by hospitals to manage patient information, appointments, charts and even their labs.</p>
+    </div>
+
+    <div class="col-md-3">
+      <div class="bg-light p-5">Image</div>
+      <h5 class="mt-3">Teladoc Health</h5>
+      <p>Allows for the patients to have remote video appointments with their doctors.</p>
+    </div>
+
+    <div class="col-md-3">
+      <div class="bg-light p-5">Image</div>
+      <h5 class="mt-3">Philips IntelliSpace PACS</h5>
+      <p>Stores and organizes X-rays, MRI scans and CT for radiologists.</p>
+    </div>
+
+    <div class="col-md-3">
+      <div class="bg-light p-5">Image</div>
+      <h5 class="mt-3">Zocdoc</h5>
+      <p>Allows for patients to search for doctors and book appointments online.</p>
+    </div>
+
   </div>
-</section>
+</div>
 
+<!-- Part B (Invention) -->
+<div class="container mt-5" id="future">
+  <div class="row align-items-center">
 
+    <div class="col-md-6">
+      <h3>Part B Context / Aframes model</h3>
+      <p>
+        MedScan+ is an innovation I'd like to bring about, it's a medical innovation that will enable people to get proper healthcare without leaving their homes. It'll work based off an application based on the symptoms that the user is feeling at the time. It works by analyzing your voice, via microphone, breathing patterns, via your smartphones camera, temperature as well as your breathing pattern, changes in your skin tone, eyes, and any instance that shows that you're sick. Advanced AI will compare all your data with medical cases of others and diagnose your condition accurately in minutes. After the scanning, you'll be connected to a doctor that reviews your results, where you're prescribed medicine, a treatment plan and proper advice. The beauty of this app is that you can order medicine through your smartphone and have it delivered to you on the same day, the app will record your health history and check up on you over certain time periods.
+      </p>
+    </div>
 
+    <div class="col-md-6">
+      <div class="bg-light p-5 text-center">Image</div>
+    </div>
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- <script src="script.js"></script> -->
-        <script>
-            // JS
+  </div>
+</div>
 
+<footer class="bg-light text-center p-3 mt-5">
+  <p>© 2026 Medicine Project</p>
+</footer>
 
-        </script>
-    </body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
 </html>
