@@ -43,7 +43,7 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Wen Jie | Good formatting for the website overall |  Consider using  a different font,adding color theme,and  finishing up your images|
 |  |  |  |
 |  |  |  |
 |  |  |  |
