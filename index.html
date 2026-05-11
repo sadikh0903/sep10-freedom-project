@@ -5,11 +5,48 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Medicine</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<style>
+  body {
+    background-color: #f4f7fb;
+    font-family: Arial, sans-serif;
+    color: #222;
+  }
+
+  .navbar {
+    padding: 15px 30px;
+    background-color: white !important;
+  }
+
+  h2, h3, h5 {
+    color: #1f3c88;
+  }
+
+  .image-box img {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+
+  .tech-card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.08);
+    height: 100%;
+  }
+
+  footer {
+    background: #1f3c88;
+    color: white;
+  }
+</style>
 </head>
 
 <body>
 
-
+<!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Logo</a>
   <div class="collapse navbar-collapse">
@@ -22,7 +59,7 @@
   </div>
 </nav>
 
-
+<!-- Hero Section (Context) -->
 <div class="container mt-5" id="context">
   <div class="row align-items-center">
     <div class="col-md-6">
@@ -33,36 +70,53 @@
       <button class="btn btn-secondary">Expand</button>
     </div>
     <div class="col-md-6">
-      <div class="bg-light p-5 text-center">Image</div>
+      <div class="image-box">
+        <img src="images/medicine-context.jpg" alt="Medicine Context">
+      </div>
     </div>
   </div>
 </div>
 
-
+<!-- Existing Technology (4 items like wireframe) -->
 <div class="container mt-5" id="tech">
-  <h3 class="text-center mb-4">Part AExisting Technology / Hardware</h3>
+  <h3 class="text-center mb-4">Existing Technology / Hardware</h3>
   <div class="row text-center">
 
     <div class="col-md-3">
-      <div class="bg-light p-5">Image</div>
+      <div class="tech-card">
+        <div class="image-box">
+          <img src="images/epic.jpg" alt="Epic Systems">
+        </div>
       <h5 class="mt-3">Epic Systems</h5>
       <p>Electronic Health Record used by hospitals to manage patient information, appointments, charts and even their labs.</p>
+      </div>
     </div>
 
     <div class="col-md-3">
-      <div class="bg-light p-5">Image</div>
+      <div class="tech-card">
+        <div class="image-box">
+          <img src="images/teladoc.jpg" alt="Teladoc Health">
+        </div>
       <h5 class="mt-3">Teladoc Health</h5>
       <p>Allows for the patients to have remote video appointments with their doctors.</p>
+      </div>
     </div>
 
     <div class="col-md-3">
-      <div class="bg-light p-5">Image</div>
+      <div class="tech-card">
+        <div class="image-box">
+          <img src="images/pacs.jpg" alt="Philips IntelliSpace PACS">
+        </div>
       <h5 class="mt-3">Philips IntelliSpace PACS</h5>
       <p>Stores and organizes X-rays, MRI scans and CT for radiologists.</p>
+      </div>
     </div>
 
     <div class="col-md-3">
-      <div class="bg-light p-5">Image</div>
+      <div class="tech-card">
+        <div class="image-box">
+          <img src="images/zocdoc.jpg" alt="Zocdoc">
+        </div>
       <h5 class="mt-3">Zocdoc</h5>
       <p>Allows for patients to search for doctors and book appointments online.</p>
     </div>
@@ -70,7 +124,7 @@
   </div>
 </div>
 
-
+<!-- Part B (Invention) -->
 <div class="container mt-5" id="future">
   <div class="row align-items-center">
 
@@ -82,14 +136,16 @@
     </div>
 
     <div class="col-md-6">
-      <div class="bg-light p-5 text-center">Image</div>
+      <div class="image-box">
+        <img src="images/medscan.jpg" alt="MedScan+">
+      </div>
     </div>
 
   </div>
 </div>
 
 <footer class="bg-light text-center p-3 mt-5">
-  <p>Freedom project</p>
+  <p>2026 Medicine Project</p>
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -97,3 +153,5 @@
 
 </body>
 </html>
+
+
