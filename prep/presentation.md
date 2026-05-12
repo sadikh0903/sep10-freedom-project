@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I'll add 3 images of medical inventions, then connect it to technology and explain how technology has on medicine, almost creating a riddle.
 
 ## Product
-* 
+* I'll show off my project and what I've made through my aframes model, and also by explaining how everything would and will work when it comes to my invention.
 
 ## Process
-* 
+* Through blogs & my learning logs I've created learning Aframes,I'll demonstrate how I came up with my idea in a short but concise manner
 
 ## Conclusion
-* 
+* I'll do a quick demo on each part of my Aframes website, explaining what I want to do with it & hogw I'll go about it, and to summarize my conclusion after this, I'll add a quick takeaways part & add some of the challenges I experienced that I already had not put in the process .
 
 <!-- EXAMPLE
 
